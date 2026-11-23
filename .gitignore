@@ -1,0 +1,4 @@
+hexstrike_env/
+pentestgpt/
+__pycache__/
+*.log
